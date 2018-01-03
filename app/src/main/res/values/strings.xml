@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Learn Java</string>
+    <string name="title_home">Home</string>
+    <string name="title_tutorial">Tutorial</string>
+    <string name="title_glossario">Glossário</string>
+    <string name="title_configurações">Configurações</string>
+    <string name="title_ranking">Ranking</string>
+</resources>
